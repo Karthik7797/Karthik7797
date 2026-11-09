@@ -36,7 +36,7 @@ I also build solutions across the Microsoft ecosystem using **SPFx, SharePoint O
 
 ### Pepagora - Catalog & Website Editor
 
-[![Pepagora catalog and website editor](./assets/pepagora.png)](https://pepagora-phi.vercel.app/catalog)
+[![Pepagora catalog and website editor](https://image.thum.io/get/width/1400/crop/800/noanimate/https://pepagora-phi.vercel.app/catalog)](https://pepagora-phi.vercel.app/catalog)
 
 A responsive catalog CMS built with **Next.js 16, React 19, TypeScript, Zustand, and SCSS Modules**. It provides a live website canvas with real-time section editing, custom UI primitives, server-rendered sections, container queries, and mobile-first layouts.
 
@@ -44,7 +44,7 @@ A responsive catalog CMS built with **Next.js 16, React 19, TypeScript, Zustand,
 
 ### Student ID CRM
 
-[![Student ID CRM dashboard](./assets/studentid-crm.png)](https://studentidcrm.vercel.app/)
+[![Student ID CRM dashboard](https://image.thum.io/get/width/1400/crop/800/noanimate/https://studentidcrm.vercel.app/)](https://studentidcrm.vercel.app/)
 
 A multi-department CRM interface built with **React, TypeScript, and Vite**. It includes counsellor and founder dashboards, student journeys, sales pipelines, follow-ups, mentor sessions, department workspaces, role previews, and responsive dark-mode UI.
 
@@ -52,7 +52,7 @@ A multi-department CRM interface built with **React, TypeScript, and Vite**. It 
 
 ### CrypGo
 
-[![CrypGo responsive crypto experience](./assets/crygo.png)](https://crygo.vercel.app/)
+[![CrypGo responsive crypto experience](https://image.thum.io/get/width/1400/crop/800/noanimate/https://crygo.vercel.app/)](https://crygo.vercel.app/)
 
 A polished cryptocurrency landing experience built with **Next.js, TypeScript, and Tailwind CSS**, featuring a responsive hero, service timeline, portfolio experience, and product-focused visual storytelling.
 
